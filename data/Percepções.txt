@@ -1,0 +1,15 @@
+SPX 5000: Índice das quinhentas maiores ações dos Estados Unidos
+
+Dol:
+
+NDX: índice com as 101 maiores instituições não financeiras da NASDAQ (bolsa dos EUA)
+
+IBOV: 
+
+Análise dos dados primária:
+	Dol -> os dados vieram
+
+Como o preço dólar, índice ibovespa e nasdaq influenciam o fluxo de entrada e saída de dinheiro investido dentro dos fundos de ações?
+
+Existe algum outro índice que defina melhor a visão do investidor do mercado de ações?
+	R: taxa SELIC (IPCA)
