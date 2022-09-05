@@ -1,1 +1,0 @@
-# constelation-asset-management-challenge
